@@ -62,7 +62,7 @@ const FooterComp = () =>{
             <ul class="links">
                 <li><a href="https://wa.me/+6281770914129">+62817-7091-4129</a></li>
                 {/* <br /> */}  
-                <li><a href="mailto:youngscientist.iysa@gmail.com">youngscientist.iysa@gmail.com</a></li>
+                <li><a href="mailto:nyeoofficial@gmail.com">nyeoofficial@gmail.com</a></li>
                 {/* <br /> */}
                 <li><a href="https://goo.gl/maps/9x18coXGCmSscKec6">Jl. Kemang No. 63 RT 03 RW 06</a></li>
             </ul>

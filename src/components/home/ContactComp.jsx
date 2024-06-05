@@ -16,7 +16,7 @@ const ContactComp = () =>{
                         </li>
                         <li>
                             <i className="uil uil-envelope"></i>
-                            <a href='mailto:youngscientist.iysa@gmail.com' target='_blank'>youngscientist.iysa@gmail.com</a>
+                            <a href='mailto:nyeoofficial@gmail.com' target='_blank'>nyeoofficial@gmail.com</a>
                         </li>
                         <li>
                             <i className="uil uil-location-point"></i>
