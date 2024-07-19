@@ -16,7 +16,7 @@ const CategoryComp = () =>{
                     </div>
                 </div>
 
-                <div className="serviceBox">
+                {/* <div className="serviceBox">
                     <div className="icon" style={{"--i":"#0A6847"}}>
                         <img src="./assets/images/icon/University.png" alt="" />
                     </div>
@@ -24,7 +24,7 @@ const CategoryComp = () =>{
                         <h2>Universitas</h2>
                         <p>Bergabunglah dengan olimpiade ekonomi universitas dan tunjukkan kemampuan Anda</p>
                     </div>
-                </div>
+                </div> */}
                 <br />
                 <br />
                 <br />
