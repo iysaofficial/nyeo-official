@@ -20,7 +20,7 @@ const HeroComp = () =>{
                     </div>
                     <br />
                     <br />
-                    <a href="#" className="btn">Segara Hadir 2024</a>
+                    <a href="https://registrasi-nyeo.vercel.app/" className="btn">Registrasi</a>
             </div>
         </section>
         </>
