@@ -43,10 +43,16 @@ const NavbarComp = () =>{
                     </div>
                     <li className='menu-item'><a href="/">Utama</a></li>
                     <li className='menu-item'><a href="#about-section">Tentang</a></li>
-                    <li className='menu-item'><a href="/#category-section">Kategori</a></li>
+                    {/* <li className='menu-item'><a href="/#category-section">Kategori</a></li> */}
                     {/* <li className='menu-item'><a href="#">FAQ</a></li> */}
+                    <li className='menu-item'>
+                        <a className='sub-btn' href="#">Daftar Pemenang <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/18vh9bFESJcxq7Nn2_e1Y5nTjYxPXn6nm/view?usp=sharing" target='_blank'>NYEO Online 2024</a></li>
+                        </ul>
+                    </li>
                     <li className='menu-item'><a href="https://drive.google.com/file/d/1zdAtdEOzqNWfi1F6nPTv8jwr-0fP1c_Q/view?usp=sharing" target='_blank'>Buku Panduan</a></li>
-                    <li className='menu-item'><a href="#contact-section">Kontak</a></li>
+                    {/* <li className='menu-item'><a href="#contact-section">Kontak</a></li> */}
                     {/* <li className='menu-item'><a href="https://drive.google.com/drive/folders/1l_bCazIZmdtOSUjAuBAgXTg7YEBTixPY" target='_blank'>Certificate Supervisor</a></li> */}
                     {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">Media Coverage <i className='fas fa-angle-down'></i></a>
