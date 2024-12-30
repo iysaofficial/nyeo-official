@@ -107,7 +107,7 @@ header .navigation .menu{
 
 .more .more-menu{
     position: absolute;
-    background: #02adee;
+    background: #41B06E;
     list-style: none;
     top: 0;
     left: 100%;
@@ -134,7 +134,7 @@ header .navigation .menu{
 }
 
 .more .more-menu .more-item:hover{
-    background: #4080ef;
+    background: #41B06E;
 }
 
 .menu-btn{
@@ -184,7 +184,7 @@ header .navigation .menu{
         background: none;
     }
     .menu-item .sub-menu .sub-item a:hover{
-        color: #4080ef;
+        color: #41B06E;
         transition: 0.3s;
     }
     .more .more-menu{
