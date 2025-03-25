@@ -60,9 +60,9 @@ const FooterComp = () =>{
           <div class="footer-widget">
             <h6>Office</h6>
             <ul class="links">
-                <li><a href="https://wa.me/+6281770914129">+62817-7091-4129</a></li>
+                <li><a href="https://wa.me/+6283870026877">+6283870026877</a></li>
                 {/* <br /> */}  
-                <li><a href="mailto:nyeoofficial@gmail.com">nyeoofficial@gmail.com</a></li>
+                <li><a href="mailto:iysa.olympiad@gmail.com">iysa.olympiad@gmail.com</a></li>
                 {/* <br /> */}
                 <li><a href="https://goo.gl/maps/9x18coXGCmSscKec6">Jl. Kemang No. 63 RT 03 RW 06</a></li>
             </ul>

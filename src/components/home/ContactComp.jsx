@@ -12,11 +12,11 @@ const ContactComp = () =>{
                     <ul className="contact__details">
                         <li>
                             <i className="uil uil-phone-times"></i>
-                            <a href='https://wa.me/+6281770914129' target='_blank'>+62817-7091-4129</a>
+                            <a href='https://wa.me/+6283870026877' target='_blank'>+6283870026877</a>
                         </li>
                         <li>
                             <i className="uil uil-envelope"></i>
-                            <a href='mailto:nyeoofficial@gmail.com' target='_blank'>nyeoofficial@gmail.com</a>
+                            <a href='mailto:iysa.olympiad@gmail.com' target='_blank'>iysa.olympiad@gmail.com</a>
                         </li>
                         <li>
                             <i className="uil uil-location-point"></i>
